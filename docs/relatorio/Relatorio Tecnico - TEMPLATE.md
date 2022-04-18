@@ -142,9 +142,9 @@ Pequenas e Médias empresas, localizadas no Brasil.
 ## Personas e Mapas de Empatia
 
 ![WhatsApp Image 2022-04-17 at 23 04 07](https://user-images.githubusercontent.com/102713925/163743320-c59a746c-a0f7-4232-aa68-0330ae11c528.jpeg)
->Augusto
+
 ![WhatsApp Image 2022-04-17 at 23 03 07](https://user-images.githubusercontent.com/102713925/163743327-68b35876-5e6a-472c-823e-1bf4446d537e.jpeg)
->Jose
+
 
 
 > Relacione as personas identificadas no seu projeto e os respectivos mapas de empatia. Lembre-se que 
