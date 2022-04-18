@@ -160,48 +160,33 @@ Nos buscamos fazer um sistema simples para todas a pessoas poderem utilizar de f
 
 ## User Flow
 
-......  INCLUA AQUI O DIAGRAMA COM O FLUXO DO USUÁRIO NA APLICAÇÃO ......
-
-> Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor
-> mapear todo fluxo de telas do site ou app. Essa técnica funciona
-> para alinhar os caminhos e as possíveis ações que o usuário pode
-> fazer junto com os membros de sua equipe.
->
-> **Links Úteis**:
-> - [User Flow: O Quê É e Como Fazer?](https://medium.com/7bits/fluxo-de-usu%C3%A1rio-user-flow-o-que-%C3%A9-como-fazer-79d965872534)
-> - [User Flow vs Site Maps](http://designr.com.br/sitemap-e-user-flow-quais-as-diferencas-e-quando-usar-cada-um/)
-> - [Top 25 User Flow Tools & Templates for Smooth](https://www.mockplus.com/blog/post/user-flow-tools)
->
-> **Exemplo**:
-> 
-> ![Exemplo de UserFlow](images/userflow.jpg)
-
+![WhatsApp Image 2022-04-17 at 23 16 43](https://user-images.githubusercontent.com/102713925/163744765-b9399ad8-eced-4e3a-ac9b-c19c1dffc742.jpeg)
 
 ## Wireframes
 
 ![WhatsApp Image 2022-04-17 at 22 39 54](https://user-images.githubusercontent.com/102713925/163741372-f13e94bf-a935-410b-aaf4-adfaf36d2838.jpeg)
->Tela de Login
+Tela de Login
 
 ![WhatsApp Image 2022-04-17 at 22 40 04](https://user-images.githubusercontent.com/102713925/163741428-69f675dd-2c3c-422c-afdb-09f412a187ba.jpeg)
->Menu
+Menu
 
 ![WhatsApp Image 2022-04-17 at 22 40 11](https://user-images.githubusercontent.com/102713925/163741463-2ed6b0ba-4845-4460-b42c-4341e6c45a4d.jpeg)
->Prudutos
+Prudutos
 
 ![WhatsApp Image 2022-04-17 at 22 40 17](https://user-images.githubusercontent.com/102713925/163741482-7b263990-4f07-4f20-a403-a0fa64441043.jpeg)
->Ordem de serviço
+Ordem de serviço
 
 ![WhatsApp Image 2022-04-17 at 22 40 23](https://user-images.githubusercontent.com/102713925/163741530-cba6f989-6e38-4d05-9085-7d4270fa6a9e.jpeg)
->Serviços
+Serviços
 
 ![WhatsApp Image 2022-04-17 at 22 40 46](https://user-images.githubusercontent.com/102713925/163741563-56d69cfe-5577-4b15-a81c-baa3f75da03c.jpeg)
->Clientes
+Clientes
 
 ![WhatsApp Image 2022-04-17 at 22 41 00](https://user-images.githubusercontent.com/102713925/163741579-f8751cc5-0bcd-4cae-9672-166598ddbc47.jpeg)
->Agenda/Calendario
+Agenda/Calendario
 
 ![WhatsApp Image 2022-04-17 at 22 41 06](https://user-images.githubusercontent.com/102713925/163741599-f5b3dadb-8d4d-4950-9cca-400e21e1cf6e.jpeg)
->Fluxo de caixa
+Fluxo de caixa
 
 
 
@@ -229,41 +214,6 @@ As ferramentas Utilizadas por nos foram o Figma, Trello, Git Hub
 |Protótipo Interativo | Figma | https://www.figma.com/proto/EPGdYdV77ydW1AB7e5D1Qf/Untitled?node-id=49%3A397&scaling=scale-down&page-id=5%3A3&starting-point-node-id=76%3A2&show-proto-sidebar=1 | 
 
 
-
-## Controle de Versão
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Discuta como a configuração do projeto foi feita na ferramenta de
-> versionamento escolhida. Exponha como a gerência de tags, merges,
-> commits e branchs é realizada. Discuta como a gerência de issues foi
-> realizada.
-> A ferramenta de controle de versão adotada no projeto foi o
-> [Git](https://git-scm.com/), sendo que o [Github](https://github.com)
-> foi utilizado para hospedagem do repositório `upstream`.
-> 
-> O projeto segue a seguinte convenção para o nome de branchs:
-> 
-> - `master`: versão estável já testada do software
-> - `unstable`: versão já testada do software, porém instável
-> - `testing`: versão em testes do software
-> - `dev`: versão de desenvolvimento do software
-> 
-> Quanto à gerência de issues, o projeto adota a seguinte convenção para
-> etiquetas:
-> 
-> - `bugfix`: uma funcionalidade encontra-se com problemas
-> - `enhancement`: uma funcionalidade precisa ser melhorada
-> - `feature`: uma nova funcionalidade precisa ser introduzida
->
-> **Links Úteis**:
-> - [Tutorial GitHub](https://guides.github.com/activities/hello-world/)
-> - [Git e Github](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
-> - [5 Git Workflows & Branching Strategy to deliver better code](https://zepel.io/blog/5-git-workflows-to-improve-development/)
->
-> **Exemplo - GitHub Feature Branch Workflow**:
->
-> ![Exemplo de Wireframe](images/Github-Workflow.png)
 
 
 # Referências
