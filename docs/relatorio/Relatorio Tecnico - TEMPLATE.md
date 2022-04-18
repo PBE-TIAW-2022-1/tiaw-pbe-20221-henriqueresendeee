@@ -10,7 +10,7 @@ Sistemas de Informação
 ## Participantes
 
 Eduardo Fonseca Batista,
-Gabriel Evaristo Pimenta,
+Gabriel Evaristo Carvalho Pimenta,
 Gabriel Felipe Ferreira,
 Giovani Fernandes Brito,
 Henrique Feitosa Resende,
