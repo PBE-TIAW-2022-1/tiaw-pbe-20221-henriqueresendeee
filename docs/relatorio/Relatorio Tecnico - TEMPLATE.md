@@ -207,8 +207,12 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-001| Relatório | MÉDIA | 
+|RNF-002| Atendimento ao Cliente |  Alta | 
+|RNF-003| Orçamento |  Alta | 
+|RNF-004| Contratos |  MÉDIA | 
+|RNF-005| Todos os funcionários terem acesso ao site |  MÉDIA | 
+|RNF-006| O site ficar aberto 100% do tempo |  MÉDIA | 
 
 > Com base nas Histórias de Usuário, enumere os requisitos da sua
 > solução. Classifique esses requisitos em dois grupos:
@@ -238,9 +242,10 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
-
+|01| Nota fiscal  |
+|02| O site não poderá ultrapassar o orçamento de R$ 1500 mil reais      |
+|03| Equipe composto somente por voluntários       |
+|04| Passar da carga horaria imposta     |
 
 > Enumere as restrições à sua solução. Lembre-se de que as restrições
 > geralmente limitam a solução candidata.
