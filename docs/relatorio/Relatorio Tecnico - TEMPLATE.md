@@ -9,12 +9,12 @@ Sistemas de Informação
 
 ## Participantes
 
->Eduardo Fonseca Batista
->Gabriel Evaristo Pimenta
->Gabriel Felipe Ferreira
->Giovani Fernandes Brito
->Henrique Feitosa Resende
->Pedro Henrique Lopes Rezende
+Eduardo Fonseca Batista,
+Gabriel Evaristo Pimenta,
+Gabriel Felipe Ferreira,
+Giovani Fernandes Brito,
+Henrique Feitosa Resende,
+Pedro Henrique Lopes Rezende.
 
 > Inclua a lista dos membros da equipe com seus nomes completos.
 >
@@ -61,7 +61,11 @@ Sistemas de Informação
 
 ## Problema
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Não ter conhecimento sobre o rendimento operacional da empresa;
+Não elaborar um plano financeiro;
+Não saber gerir o lucro obtido;
+Não saber o valor patrimonial da empresa.
+
 
 > Nesse momento você deve apresentar o problema que a sua aplicação deve
 > resolver. No entanto, não é a hora de comentar sobre a aplicação.
@@ -81,7 +85,7 @@ Sistemas de Informação
 
 ## Objetivos
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Criar um gestor financeiro capaz de gerir empresas de médio e pequeno porte.
 
 > Aqui você deve descrever os objetivos do trabalho indicando que o
 > objetivo geral é desenvolver um software para solucionar o problema
@@ -94,7 +98,7 @@ Sistemas de Informação
 
 ## Justificativa
 
-......  COLOQUE AQUI O SEU TEXTO ......
+O gestor financeiro é extremamente importante para o crescimento de uma empresa, tendo uma gestão 100% correta o que ajuda a reduzir gastos e como consequência aumentando os lucros. 
 
 > Descreva a importância ou a motivação para trabalhar com esta aplicação
 > que você escolheu. Indique as razões pelas quais você escolheu seus
@@ -110,7 +114,7 @@ Sistemas de Informação
 
 ## Público-Alvo
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Pequenas e Médias empresas, localizadas no Brasil.
 
 > Descreva quem serão as pessoas que usarão a sua aplicação indicando os
 > diferentes perfis. O objetivo aqui não é definir quem serão os
