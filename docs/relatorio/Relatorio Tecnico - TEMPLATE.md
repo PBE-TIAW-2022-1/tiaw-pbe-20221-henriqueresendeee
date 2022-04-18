@@ -71,11 +71,7 @@ Pequenas e Médias empresas, localizadas no Brasil.
 
 # Especificações do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Apresente uma visão geral do que será abordado nesta parte do
-> documento, enumerando as técnicas e/ou ferramentas utilizadas para
-> realizar a especificações do projeto
+Nessa parte do projeto buscamos como seria o início do nosso projeto, como seria a interface da nossa aplicação, e com isso utilizamos o Figma e começamos a ter um esboço do nosso projeto.
 
 ## Personas e Mapas de Empatia
 
