@@ -91,8 +91,12 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|Usuário do sistema  | Uma agenda           | Não tenho uma memoria boa              |
+|Usuário do sistema       |         Fluxo de caixa         | Ter um controle maior sobre finanças |
+|    Usuário do sistema    |        Controle de estoque         | ter maior contole de seus produtos (entrada e saida) |
+|    Dono da empresa   |        gestão mais facil          | passar mais tempo com a familia |
+|  Usuário do sistema    |     Lista de clientes             | para mandar recados ou cobranças |
+|   Dono da empresa  |       Suporte facilitado          | para caso ter algum bug ou problema |
 
 > Apresente aqui as histórias de usuário que são relevantes para o
 > projeto de sua solução. As Histórias de Usuário consistem em uma
