@@ -161,7 +161,10 @@ Pequenas e Médias empresas, localizadas no Brasil.
 > 
 > 
 > **Exemplo de Persona**
-> 
+> [kelly.docx](https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-henriqueresendeee/files/8502970/kelly.docx)
+[jose (1).docx](https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-henriqueresendeee/files/8502971/jose.1.docx)
+[augusto.docx](https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-henriqueresendeee/files/8502972/augusto.docx)
+
 > ![Exemplo de Persona](imaages/../images/persona.png)
 > 
 > Fonte: [Como criar uma persona para o seu negócio](https://raissaviegas.com.br/como-criar-uma-persona/)
