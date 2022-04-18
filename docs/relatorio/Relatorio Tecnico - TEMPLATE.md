@@ -9,12 +9,12 @@ Sistemas de Informação
 
 ## Participantes
 
->Eduardo Fonseca Batista,
->Gabriel Evaristo Pimenta,
->Gabriel Felipe Ferreira,
->Giovani Fernandes Brito,
->Henrique Feitosa Resende,
->Pedro Henrique Lopes Rezende.
+Eduardo Fonseca Batista,
+Gabriel Evaristo Pimenta,
+Gabriel Felipe Ferreira,
+Giovani Fernandes Brito,
+Henrique Feitosa Resende,
+Pedro Henrique Lopes Rezende.
 
 > Inclua a lista dos membros da equipe com seus nomes completos.
 >
@@ -145,6 +145,7 @@ Pequenas e Médias empresas, localizadas no Brasil.
 
 ![WhatsApp Image 2022-04-17 at 23 03 07](https://user-images.githubusercontent.com/102713925/163743327-68b35876-5e6a-472c-823e-1bf4446d537e.jpeg)
 
+![WhatsApp Image 2022-04-17 at 23 17 26](https://user-images.githubusercontent.com/102713925/163744163-1ffebaf3-aa87-47e0-9f1e-f62930530cb5.jpeg)
 
 
 > Relacione as personas identificadas no seu projeto e os respectivos mapas de empatia. Lembre-se que 
