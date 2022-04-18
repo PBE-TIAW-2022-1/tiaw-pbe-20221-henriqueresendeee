@@ -276,7 +276,30 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## Wireframes
 
-......  INCLUA AQUI OS WIREFRAMES DAS TELAS DA APLICAÇÃO COM UM BREVE DESCRITIVO ......
+![WhatsApp Image 2022-04-17 at 22 39 54](https://user-images.githubusercontent.com/102713925/163741372-f13e94bf-a935-410b-aaf4-adfaf36d2838.jpeg)
+Tela de Login
+
+![WhatsApp Image 2022-04-17 at 22 40 04](https://user-images.githubusercontent.com/102713925/163741428-69f675dd-2c3c-422c-afdb-09f412a187ba.jpeg)
+Menu
+
+![WhatsApp Image 2022-04-17 at 22 40 11](https://user-images.githubusercontent.com/102713925/163741463-2ed6b0ba-4845-4460-b42c-4341e6c45a4d.jpeg)
+Prudutos
+
+![WhatsApp Image 2022-04-17 at 22 40 17](https://user-images.githubusercontent.com/102713925/163741482-7b263990-4f07-4f20-a403-a0fa64441043.jpeg)
+Ordem de serviço
+
+![WhatsApp Image 2022-04-17 at 22 40 23](https://user-images.githubusercontent.com/102713925/163741530-cba6f989-6e38-4d05-9085-7d4270fa6a9e.jpeg)
+Serviços
+
+![WhatsApp Image 2022-04-17 at 22 40 46](https://user-images.githubusercontent.com/102713925/163741563-56d69cfe-5577-4b15-a81c-baa3f75da03c.jpeg)
+Clientes
+
+![WhatsApp Image 2022-04-17 at 22 41 00](https://user-images.githubusercontent.com/102713925/163741579-f8751cc5-0bcd-4cae-9672-166598ddbc47.jpeg)
+Agenda/Calendario
+
+![WhatsApp Image 2022-04-17 at 22 41 06](https://user-images.githubusercontent.com/102713925/163741599-f5b3dadb-8d4d-4950-9cca-400e21e1cf6e.jpeg)
+Fluxo de caixa
+
 
 > Wireframes são protótipos das telas da aplicação usados em design de interface para sugerir a
 > estrutura de um site web e seu relacionamentos entre suas
