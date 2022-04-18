@@ -473,7 +473,11 @@ As ferramentas Utilizadas por nos foram o Figma, Trello, Git Hub
 
 # Referências
 
-......  COLOQUE AQUI O SEU TEXTO ......
+https://www.meudinheiroweb.com.br/depoimentos/
+https://codificar.com.br/requisitos-funcionais-nao-funcionais/amp/
+https://www.youtube.com/watch?v=69PngSL6XN4&t=359s
+https://youtube.com/playlist?list=PLwgL9IEA0PxXzmOu0crRl9l6PT46nqtI9
+
 
 > Inclua todas as referências (livros, artigos, sites, etc) utilizados
 > no desenvolvimento do trabalho.
