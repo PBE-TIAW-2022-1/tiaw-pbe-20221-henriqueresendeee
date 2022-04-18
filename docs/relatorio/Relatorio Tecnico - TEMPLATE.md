@@ -195,10 +195,14 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
-
-
+|RF-001| Cadastro de Clientes e de Fornecedores | ALTA | 
+|RF-002| Gerenciar produtos e seus valores de venda  | ALTA |
+|RF-003| Serviços de mão de obra  | MÉDIA |
+|RF-004| Serviços de mão de obra | MÉDIA |
+|RF-005| Estoque | ALTA |
+|RF-006| Financeiro, contas para pagar e recebimentos | ALTA |
+|RF-007|	Tesouraria | ALTA |
+|RF-008| 	Faturamento | ALTA |
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
