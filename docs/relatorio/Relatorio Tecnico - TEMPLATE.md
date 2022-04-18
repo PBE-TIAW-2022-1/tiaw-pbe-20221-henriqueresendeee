@@ -296,10 +296,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 # Metodologia
 
-Nossa equipe dividiu a Sprint 1 de forma que cada um ficasse com a parte que mais o interessasse, tentamos ao máximo não sobrecarregar apenas um integrante, assim dividindo de forma mais igualitária o possível.
-![image](https://user-images.githubusercontent.com/102713925/163738124-acc36839-8fca-47ee-8248-9f6183553173.png)
-
-
+Nosso grupo resolveu usar como base em nosso trabalho um kanban no site trello, para termos um maior acompanhamento do nosso trabalho de itens em processo, ou ja terminados, alem de usar o repositorio do github para melhor acompanhar a parte de cada um individualmente.
 > Nesta parte do documento, você deve apresentar a metodologia 
 > adotada pelo grupo, descrevendo o processo de trabalho baseado nas metodologias ágeis, 
 > a divisão de papéis e tarefas, as ferramentas empregadas e como foi realizada a
@@ -318,7 +315,7 @@ Nossa equipe dividiu a Sprint 1 de forma que cada um ficasse com a parte que mai
 
 ## Divisão de Papéis
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Nossa equipe dividiu a Sprint 1 de forma que cada um ficasse com a parte que mais o interessasse, tentamos ao máximo não sobrecarregar apenas um integrante, assim dividindo de forma mais igualitária o possível.
 
 > Apresente a divisão de papéis e tarefas entre os membros do grupo.
 >
@@ -329,14 +326,14 @@ Nossa equipe dividiu a Sprint 1 de forma que cada um ficasse com a parte que mai
 
 ## Ferramentas
 
-......  COLOQUE AQUI O SEU TEXTO - SIGA O EXEMPLO DA TABELA ABAIXO  ......
+As ferramentas Utilizadas por nos foram o Figma, Trello, Git Hub
 
 | Ambiente  | Plataforma              |Link de Acesso |
 |-----------|-------------------------|---------------|
-|Processo de Design Thinkgin  | Miro |  https://miro.com/XXXXXXX | 
-|Repositório de código | GitHub | https://github.com/XXXXXXX | 
-|Hospedagem do site | Heroku |  https://XXXXXXX.herokuapp.com | 
-|Protótipo Interativo | MavelApp ou Figma | https://figma.com/XXXXXXX | 
+|Processo de Design Thinkgin  | Figma |  https://www.figma.com/file/EPGdYdV77ydW1AB7e5D1Qf/Untitled?node-id=5%3A3 | 
+|Repositório de código | GitHub | https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-henriqueresendeee | 
+|Acompanhamento de trabalho | Trello |  https://trello.com/invite/b/PH9Z66z5/3d7c653035376e7dcb6731135629b92b/kanban-quadro-modelo | 
+|Protótipo Interativo | Figma | https://www.figma.com/proto/EPGdYdV77ydW1AB7e5D1Qf/Untitled?node-id=49%3A397&scaling=scale-down&page-id=5%3A3&starting-point-node-id=76%3A2&show-proto-sidebar=1 | 
 
 >
 > Liste as ferramentas empregadas no desenvolvimento do
