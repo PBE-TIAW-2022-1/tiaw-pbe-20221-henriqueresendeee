@@ -9,12 +9,12 @@ Sistemas de Informação
 
 ## Participantes
 
-Eduardo Fonseca Batista
-Gabriel Evaristo Pimenta
-Gabriel Felipe Ferreira
-Giovani Fernandes Brito
-Henrique Feitosa Resende
-Pedro Henrique Lopes Rezende
+>Eduardo Fonseca Batista
+>Gabriel Evaristo Pimenta
+>Gabriel Felipe Ferreira
+>Giovani Fernandes Brito
+>Henrique Feitosa Resende
+>Pedro Henrique Lopes Rezende
 
 > Inclua a lista dos membros da equipe com seus nomes completos.
 >
